@@ -1,8 +1,4 @@
-"scripts": {
-  "dev": "vite",
-  "build": "tsc && vite build",
-  "start": "vite preview --port 10000"
-},
+
 {
   "name": "health-news-curator",
   "private": true,
@@ -32,5 +28,10 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4"
-  }
+  },
+  "scripts": {
+  "dev": "vite",
+  "build": "tsc && vite build",
+  "start": "vite preview --port 10000"
+}
 }
