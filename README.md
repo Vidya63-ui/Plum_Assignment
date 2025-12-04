@@ -87,19 +87,19 @@ src/
 
 ## Screenshots
 ### Home Page - Light Theme
-![Home Page](assets/Assignsc-1.png)
+![Home Page](src/assets/Assignsc-1.png)
 
 ### Home Page - Dark Theme
-![Home Page](assets/Assignsc-2.png)
+![Home Page](src/assets/Assignsc-2.png)
 
 ### Summury Page - Dark Theme
-![Summury Page](assets/Assignsc-3.png)
+![Summury Page](src/assets/Assignsc-3.png)
 
 ### Feed Page - Dark Theme
-![Feed Page](assets/Assignsc-4.png)
+![Feed Page](src/assets/Assignsc-4.png)
 
 ### Article Page - Dark Theme
-![Article Page](assets/Assignsc-5.png)
+![Article Page](src/assets/Assignsc-5.png)
 
 
 ## Known Issues
