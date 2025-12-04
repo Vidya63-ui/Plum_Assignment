@@ -86,7 +86,21 @@ src/
 ```
 
 ## Screenshots
-Add captured UI images here (e.g., `docs/screen-loader.png`, `docs/screen-feed.png`).
+### Home Page - Light Theme
+![Home Page](assets/Assignsc-1.png)
+
+### Home Page - Dark Theme
+![Home Page](assets/Assignsc-2.png)
+
+### Summury Page - Dark Theme
+![Summury Page](assets/Assignsc-3.png)
+
+### Feed Page - Dark Theme
+![Feed Page](assets/Assignsc-4.png)
+
+### Article Page - Dark Theme
+![Article Page](assets/Assignsc-5.png)
+
 
 ## Known Issues
 - Ollama calls are browser-side; ensure CORS is allowed or use a proxy for production.
